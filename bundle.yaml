@@ -1,0 +1,6 @@
+apiVersion: "1"
+version: "1"
+id: "cb-casc-hamjared-dev-controller"
+description: "CloudBees CI configuration bundle for the cb-casc-hamjared dev-controller Controller"
+availabilityPattern: "cloudbees-ci-casc-workshop/cb-casc-hamjared/dev-controller"
+parent: "base"
